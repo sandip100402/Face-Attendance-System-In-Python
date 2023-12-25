@@ -7,9 +7,9 @@ This project in Python would involve the development of a program that utilizes 
 The program would likely include functions for capturing images, comparing faces, recording attendance in an Excel file, and possibly generating reports.
 
 How to Setup In Your Computer
-
-Install Below Library 
 ==>
+Install Below Library 
+
     import face_recognition
     import cv2
     import datetime
